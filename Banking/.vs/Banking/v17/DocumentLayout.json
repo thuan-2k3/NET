@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|c:\\users\\user\\desktop\\mon_hoc\\.net\\banking\\banking(duan)\\view\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\view\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\banking(duan)\\view\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\view\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|c:\\users\\user\\desktop\\mon_hoc\\.net\\banking\\banking(duan)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|c:\\users\\user\\desktop\\mon_hoc\\.net\\banking\\banking(duan)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\banking(duan)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\banking(duan)\\view\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\view\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\banking(duan)\\view\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\view\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|c:\\users\\user\\desktop\\mon_hoc\\.net\\banking\\banking(duan)\\view\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\view\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|c:\\users\\user\\desktop\\mon_hoc\\.net\\banking\\banking(duan)\\view\\create_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\view\\create_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\banking(duan)\\view\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\view\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|c:\\users\\user\\desktop\\mon_hoc\\.net\\banking\\banking(duan)\\view\\create_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\view\\create_customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|c:\\users\\user\\desktop\\mon_hoc\\.net\\banking\\banking(duan)\\model\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\model\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|c:\\users\\user\\desktop\\mon_hoc\\.net\\banking\\banking(duan)\\contronller\\customercontronller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\contronller\\customercontronller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|c:\\users\\user\\desktop\\mon_hoc\\.net\\banking\\banking(duan)\\model\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\model\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|c:\\users\\user\\desktop\\mon_hoc\\.net\\banking\\banking(duan)\\contronller\\accountcontronller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\contronller\\accountcontronller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|c:\\users\\user\\desktop\\mon_hoc\\.net\\banking\\banking(duan)\\contronller\\branchcontronller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\contronller\\branchcontronller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|c:\\users\\user\\desktop\\mon_hoc\\.net\\banking\\banking(duan)\\contronller\\employeecontronller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\contronller\\employeecontronller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|c:\\users\\user\\desktop\\mon_hoc\\.net\\banking\\banking(duan)\\view\\create_customer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\view\\create_customer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|c:\\users\\user\\desktop\\mon_hoc\\.net\\banking\\banking(duan)\\view\\create_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\view\\create_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|c:\\users\\user\\desktop\\mon_hoc\\.net\\banking\\banking(duan)\\view\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\view\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|c:\\users\\user\\desktop\\mon_hoc\\.net\\banking\\banking(duan)\\model\\branchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\model\\branchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|c:\\users\\user\\desktop\\mon_hoc\\.net\\banking\\banking(duan)\\model\\employssmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\model\\employssmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|c:\\users\\user\\desktop\\mon_hoc\\.net\\banking\\banking(duan)\\view\\create_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBE8FA83-6C7A-40A2-8BDF-F656A3B18154}|Banking(Duan)\\Banking.csproj|solutionrelative:banking(duan)\\view\\create_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Form1.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Form1.cs",
+              "RelativeToolTip": "Banking(Duan)\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:18:58.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Form1.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Form1.cs [Design]",
+              "RelativeToolTip": "Banking(Duan)\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:18:49.085Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trangchu.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Trangchu.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\View\\Trangchu.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Trangchu.cs",
+              "RelativeToolTip": "Banking(Duan)\\View\\Trangchu.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAADgv5IAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:17:39.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create_Customer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Create_Customer.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\View\\Create_Customer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Create_Customer.cs",
+              "RelativeToolTip": "Banking(Duan)\\View\\Create_Customer.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAiwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:22:42.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Iview.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Iview.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\View\\Iview.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Iview.cs",
+              "RelativeToolTip": "Banking(Duan)\\View\\Iview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:45:40.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Branch.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Branch.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\View\\Branch.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Branch.cs [Design]",
+              "RelativeToolTip": "Banking(Duan)\\View\\Branch.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:41:16.626Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Branch.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\View\\Branch.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Branch.cs",
+              "RelativeToolTip": "Banking(Duan)\\View\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:29:30.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Program.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Program.cs",
+              "RelativeToolTip": "Banking(Duan)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:59:49.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trangchu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Trangchu.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\View\\Trangchu.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Trangchu.cs [Design]",
+              "RelativeToolTip": "Banking(Duan)\\View\\Trangchu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T07:06:50.764Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create_Customer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Create_Customer.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\View\\Create_Customer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Create_Customer.cs [Design]",
+              "RelativeToolTip": "Banking(Duan)\\View\\Create_Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:22:40.553Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Employee.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\View\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Employee.cs [Design]",
+              "RelativeToolTip": "Banking(Duan)\\View\\Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:52:44.371Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Model\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\Model\\CustomerModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Model\\CustomerModel.cs",
+              "RelativeToolTip": "Banking(Duan)\\Model\\CustomerModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:19:41.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerContronller.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Contronller\\CustomerContronller.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\Contronller\\CustomerContronller.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Contronller\\CustomerContronller.cs",
+              "RelativeToolTip": "Banking(Duan)\\Contronller\\CustomerContronller.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:36:11.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Model\\IModel.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\Model\\IModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Model\\IModel.cs",
+              "RelativeToolTip": "Banking(Duan)\\Model\\IModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:38:08.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BranchContronller.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Contronller\\BranchContronller.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\Contronller\\BranchContronller.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Contronller\\BranchContronller.cs",
+              "RelativeToolTip": "Banking(Duan)\\Contronller\\BranchContronller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:37:49.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeContronller.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Contronller\\EmployeeContronller.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\Contronller\\EmployeeContronller.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Contronller\\EmployeeContronller.cs",
+              "RelativeToolTip": "Banking(Duan)\\Contronller\\EmployeeContronller.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAUwKAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:36:52.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountContronller.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Contronller\\AccountContronller.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\Contronller\\AccountContronller.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Contronller\\AccountContronller.cs",
+              "RelativeToolTip": "Banking(Duan)\\Contronller\\AccountContronller.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswDYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:46:23.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create_Customer.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Create_Customer.Designer.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\View\\Create_Customer.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Create_Customer.Designer.cs",
+              "RelativeToolTip": "Banking(Duan)\\View\\Create_Customer.Designer.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAASwAMBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:22:53.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BranchModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Model\\BranchModel.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\Model\\BranchModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Model\\BranchModel.cs",
+              "RelativeToolTip": "Banking(Duan)\\Model\\BranchModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:04:17.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployssModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Model\\EmployssModel.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\Model\\EmployssModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\Model\\EmployssModel.cs",
+              "RelativeToolTip": "Banking(Duan)\\Model\\EmployssModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:03:59.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create_Account.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Create_Account.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\View\\Create_Account.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Create_Account.cs",
+              "RelativeToolTip": "Banking(Duan)\\View\\Create_Account.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAmwGoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:57:07.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create_Account.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Create_Account.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\View\\Create_Account.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Create_Account.cs [Design]",
+              "RelativeToolTip": "Banking(Duan)\\View\\Create_Account.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:57:05.944Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Employee.cs",
+              "RelativeDocumentMoniker": "Banking(Duan)\\View\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Mon_Hoc\\.net\\Banking\\Banking(Duan)\\View\\Employee.cs",
+              "RelativeToolTip": "Banking(Duan)\\View\\Employee.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwE0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:52:47.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
